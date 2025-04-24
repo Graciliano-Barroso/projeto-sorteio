@@ -1,0 +1,26 @@
+{
+  "name": "projeto-sorteio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx tsx ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graciliano-Barroso/projeto-sorteio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graciliano-Barroso/projeto-sorteio/issues"
+  },
+  "homepage": "https://github.com/Graciliano-Barroso/projeto-sorteio#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "terminal-kit": "^3.1.2"
+  }
+}
