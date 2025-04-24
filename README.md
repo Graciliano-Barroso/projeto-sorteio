@@ -3,14 +3,14 @@
 <p align="center">Um sorteio reverso em que o último eliminado é o verdadeiro campeão! 🏆</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100" style="border-radius: 50%;" alt="Avatar do autor"/>
+  <img src="https://avatars.githubusercontent.com/u/93547895?s=400&u=915ab2eaa0041d453014ccb9b8372b1c97c61868&v=4" width="100" style="border-radius: 50%;" alt="Avatar do autor"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fakeuser/o-azarado-mais-sortudo"><img alt="GitHub repo stars" src="https://img.shields.io/github/stars/fakeuser/o-azarado-mais-sortudo?style=social"></a>
-  <a href="https://github.com/fakeuser/o-azarado-mais-sortudo/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen"></a>
+  <a href="https://github.com/Graciliano-Barroso/projeto-sorteio"><img alt="GitHub repo stars" src="https://img.shields.io/github/stars/Graciliano-Barroso/projeto-sorteio?style=social"></a>
+  <a href="https://github.com/Graciliano-Barroso/projeto-sorteio/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen"></a>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue">
-  <img alt="Languages" src="https://img.shields.io/github/languages/top/fakeuser/o-azarado-mais-sortudo">
+  <img alt="Languages" src="https://img.shields.io/github/languages/top/Graciliano-Barroso/projeto-sorteio">
 </p>
 
 ---
@@ -64,7 +64,7 @@
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/fakeuser/o-azarado-mais-sortudo.git
+git clone https://github.com/Graciliano-Barroso/projeto-sorteio.git
 cd o-azarado-mais-sortudo
 ```
 
@@ -119,15 +119,15 @@ jo****@gmail.com
 Contribuições são bem-vindas!  
 Sugira melhorias, abra issues ou envie pull requests:
 
-👉 [https://github.com/fakeuser/o-azarado-mais-sortudo/issues](https://github.com/fakeuser/o-azarado-mais-sortudo/issues)
+👉 [https://github.com/Graciliano-Barroso/projeto-sorteio/issues](https://github.com/Graciliano-Barroso/projeto-sorteio/issues)
 
 ---
 
 ## 📄 Licença
 
 Distribuído sob a licença **MIT**.  
-Criado por **Fake Dev** 👨‍💻  
-[https://github.com/fakeuser](https://github.com/fakeuser)
+Criado por **Graciliano Barroso** 👨‍💻  
+[https://github.com/Graciliano-Barroso](https://github.com/Graciliano-Barroso)
 
 ---
 
